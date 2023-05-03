@@ -5,7 +5,7 @@ Front end developer in training 💻
 - 🔭 I'm currently working on a react application, in conjunction with style-components.
 - 🌱 I am currently learning about frontend development with HTML, CSS, Javascript, SASS, ReactJs, Redux and firebase.
 - 💬 Ask me about all frontend related topics
-- 📫 How to contact me: angiemaldonado.rr@gmail.com, https://www.linkedin.com/in/angie-maldonado15919
+- 📫 How to reach me **angiemaldonado.rr@gmail.com**
 - ⚡ Fun fact: My hobbies are photography, painting, exercising and listening to music.
 
 <h3 align="left">Connect with me:</h3>
